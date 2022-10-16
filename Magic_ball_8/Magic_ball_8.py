@@ -13,9 +13,9 @@ print(f'Привет, {name}')
 
 def choice1(otv):
     while True:
-        q = input(f'Задай свой вопрс, {name}\n')
+        q = input(f'Задай свой вопрос, {name}\n')
         print(choice(otv))
-        q2 = input('Еще вопрсы будут?\n')
+        q2 = input('Еще вопросы будут?\n')
         if q2 == 'да':
             continue
         if q2 == 'нет':

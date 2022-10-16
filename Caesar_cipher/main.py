@@ -24,5 +24,5 @@ def ceasar(inp):
     return out
 
 
-inpu = input('Введите текст для шиврования/дешифрования: \n')
+inpu = input('Введите текст для шифрования/дешифрования: \n')
 print(ceasar(inpu))
