@@ -7,7 +7,7 @@ punctuation = '!#$%&*+-=?@^_'
 chars = ''
 
 pwd_n = int(input('Сколько паролей нужно?\n'))
-pwd_len = int(input('Какой длины парол, нужен?\n'))
+pwd_len = int(input('Какой длины пароль, нужен?\n'))
 pwd_digits = input('Включать ли цифры 0123456789? (y/n)\n').strip()
 pwd_upper = input('Включать ли прописные буквы ABCDEFGHIJKLMNOPQRSTUVWXYZ? (y/n)\n').strip()
 pwd_lower = input('Включать ли строчные буквы abcdefghijklmnopqrstuvwxyz? (y/n)\n').strip()
